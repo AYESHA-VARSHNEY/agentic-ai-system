@@ -102,3 +102,25 @@ src/
 
 ## Testing Without API Key
 The system works in mock mode automatically — no API key required for demo.
+
+## Screenshots
+
+### Server Running
+![Server Running](screenshots/server_running.png)
+
+### Health Check
+![Health Check](screenshots/health_check.png)
+
+### Agent Pipeline Output
+![Pipeline Output 1](screenshots/pipeline_output1.png)
+![Pipeline Output 2](screenshots/pipeline_output2.png)
+
+### API Documentation
+![API Docs](screenshots/api_docs.png)
+
+### API Execute Response
+![API Execute 1](screenshots/api_execute1.png)
+![API Execute 2](screenshots/api_execute2.png)
+![API Execute 3](screenshots/api_execute3.png)
+
+
